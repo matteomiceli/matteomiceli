@@ -5,7 +5,7 @@ I'm a Vancouver-based full stack web developer passionate about open source 🐧
 
 I love solving problems with code and making cool stuff with cool people. I have a background in criminology and an interest in research, writing, and history. 
 
-Currently, I'm working on Minerva, a collaborative markdown editor with github integration!
+Right now I'm working on Minerva, a collaborative markdown editor with github integration!
 
 <br>
 
