@@ -1,4 +1,4 @@
-## Hi, I'm Matteo 👋
+# Hi, I'm Matteo 👋
 
 
 I'm a Vancouver-based full stack web developer passionate about open source 🐧
