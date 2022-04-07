@@ -9,7 +9,7 @@ Right now I'm working on Minerva, a collaborative markdown editor with github in
 
 <br>
 
-<a href="https://www.linkedin.com/in/omatteomiceli/" target="_blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/omatteomiceli/" target="_blank">LinkedIn</a> | 
 <a href="https://matteomiceli.github.io/" target="_blank">Portfolio</a>
 
 
