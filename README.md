@@ -5,7 +5,7 @@ I'm a Vancouver-based full stack web developer passionate about open source 🐧
 
 I love solving problems with code and making cool stuff with cool people. I have a background in criminology and an interest in research, writing, and history. 
 
-I'm currently working on [Runik](https://github.com/Runik-3/), an application that lets you generate e-reader compatible dictionaries for your favourite fictional worlds!
+I'm currently working on [Runik](https://github.com/Runik-3/), an application that generates e-reader compatible dictionaries for your favourite fictional worlds!
 
 <br>
 
